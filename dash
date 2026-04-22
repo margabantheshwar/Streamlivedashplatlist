@@ -26,6 +26,15 @@
     "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png"
   },
  {
+      "id": "ss2tam",
+      "name": "Star Sports 2 Tamil HD",
+      "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/index.mpd",
+      "cookie": "__hdnea__=st=1776352902~exp=1776374502~acl=/bpk-tv/Star_Sports2_Tamil_HD_BTS/WDVLive/*~hmac=5780757896348a1fa2a94667478319c8989048a6c4591b287429cde82d2a28a0",
+      "keyId": "dc44fe6251825774b90d58dcfa7d94e0",
+      "key": "63e3ae853f483a86752b5b9e6d61eb20",
+      "logo": "https://img.media.jio.com/tvpimages/50/43/302120_1749664850896_l_medium.jpg"
+    },
+ {
     "id": "",
     "name": "",
     "group": "",
